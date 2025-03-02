@@ -1,1 +1,1 @@
-print("Baris awal")
+print("i love u")
